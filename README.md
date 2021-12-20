@@ -1,1 +1,1 @@
-## Practice about React context
+## Practice of React context
